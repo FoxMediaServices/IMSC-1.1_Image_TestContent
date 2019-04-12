@@ -3,11 +3,11 @@
 This reel is is for IMSC 1.1 Image based subtitle testing. The items that are tested are all pertinent to subtitles produced for production content. This has been built to help manufacturers with their IMSC 1.1 Image implementations by providing them with a reference IMSC package.
 
 This test content includes the following assets:
-- IMSC1-1_IMAGE_Test-Reel_FMS_v1-0/
-- IMSC1-1_IMAGE_Test-Reel_FMS_v1-0_2019-01-29_Rec709_Backplate.mov*
-- IMSC1-1_IMAGE_Test-Reel_FMS_v1-0_2019-01-29_Rec709_CompositedProxy.mp4*
-- IMSC1-1_IMAGE_Test-Reel_FMS_v1-0_2019-01-29_Rec2020-PQ_Backplate.mov*
-- IMSC1-1_IMAGE_Test-Reel_FMS_v1-0_2019-01-29_Rec2020-PQ_CompositedProxy.mp4*
+- IMSC1-1_IMAGE_Test-Reel_FMS_v1-1/
+- IMSC1-1_IMAGE_Test-Reel_FMS_v1-0_Rec709_Backplate.mov*
+- IMSC1-1_IMAGE_Test-Reel_FMS_v1-0_Rec709_CompositedProxy.mp4*
+- IMSC1-1_IMAGE_Test-Reel_FMS_v1-0_Rec2020-PQ_Backplate.mov*
+- IMSC1-1_IMAGE_Test-Reel_FMS_v1-0_Rec2020-PQ_CompositedProxy.mp4*
 
     **Please note that these media files are hosted at https://foxgroup.box.com/, and are linked to via .URL  internet shortcut files.*
 
